@@ -1,0 +1,14 @@
+/home/gabriel/FirstbornApp/obj/Debug/net10.0/FirstbornApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/FirstbornApp/obj/Debug/net10.0/FirstbornApp.AssemblyInfoInputs.cache
+/home/gabriel/FirstbornApp/obj/Debug/net10.0/FirstbornApp.AssemblyInfo.cs
+/home/gabriel/FirstbornApp/obj/Debug/net10.0/FirstbornApp.csproj.CoreCompileInputs.cache
+/home/gabriel/FirstbornApp/bin/Debug/net10.0/FirstbornApp
+/home/gabriel/FirstbornApp/bin/Debug/net10.0/FirstbornApp.deps.json
+/home/gabriel/FirstbornApp/bin/Debug/net10.0/FirstbornApp.runtimeconfig.json
+/home/gabriel/FirstbornApp/bin/Debug/net10.0/FirstbornApp.dll
+/home/gabriel/FirstbornApp/bin/Debug/net10.0/FirstbornApp.pdb
+/home/gabriel/FirstbornApp/obj/Debug/net10.0/FirstbornApp.dll
+/home/gabriel/FirstbornApp/obj/Debug/net10.0/refint/FirstbornApp.dll
+/home/gabriel/FirstbornApp/obj/Debug/net10.0/FirstbornApp.pdb
+/home/gabriel/FirstbornApp/obj/Debug/net10.0/FirstbornApp.genruntimeconfig.cache
+/home/gabriel/FirstbornApp/obj/Debug/net10.0/ref/FirstbornApp.dll
